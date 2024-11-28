@@ -17,5 +17,5 @@ A fully responsive portfolio website that showcases my personal journey, educati
 - **JavaScript**: For interactivity and dynamic user experiences.  
 
 ## Live Demo  
-[Visit My Portfolio](https://syedtanzeel64.github.io/Portfolio-/) *(Replace with your live link)*  
+[Visit My Portfolio](https://syedtanzeel64.github.io/Portfolio-/)  
 
